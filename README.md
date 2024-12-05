@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Thomas, an Associate Software Engineer at [Ultralytics](https://github.com/ultralytics) and a student at National Chengchi University.
 <!--
 **chuang091/chuang091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
