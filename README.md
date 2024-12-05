@@ -1,3 +1,4 @@
+[![Change Language](https://img.shields.io/badge/Language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-blue)](READMEzh.md)
 ## Hi there 👋
 
 I'm Thomas, an Associate Software Engineer at [Ultralytics](https://github.com/ultralytics) and a student at National Chengchi University.
