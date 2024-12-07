@@ -2,6 +2,12 @@
 ## Hi there 👋
 
 I'm Thomas, an Associate Software Engineer at [Ultralytics](https://github.com/ultralytics) and a student at National Chengchi University.
+
+## About me
+
+A GIS enthusiast with a blend of technical prowess and practical experience in urban planning. Holding a Bachelor's in Land Economics from National Cheng Chi University, my expertise spans ArcGIS Pro, WebGIS, Java, Python, Docker, and SQL. I've contributed to significant projects ranging from historical map digitalization, showcasing my skills in spatial analysis and full-stack development.
+
+My achievements include top honors in prestigious GIS competitions, underlining my ability to translate complex data into engaging narratives. Currently expanding my knowledge in smart city planning and deep learning at Peking University.
 <!--
 **chuang091/chuang091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
