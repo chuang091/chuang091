@@ -1,39 +1,33 @@
-[繁體中文](READMEzh.md)
+<a href="https://thomas-chuang.com/#proj-historical-map-geoai">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-poster-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-poster-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-poster-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-poster-desktop-light.webp">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-ultra-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-ultra-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-ultra-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v1/header-ultra-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — a 1921 Taiwan map is outlined, scanned, classified, and reconstructed as a 3D landscape">
+  </picture>
+</a>
 
-# Hi, I'm Thomas Chuang
+<p><a href="https://thomas-chuang.com/">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/th0mas-chuang/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:thomaschuang@berkeley.edu">Email</a> &nbsp;·&nbsp; <a href="https://thomas-chuang.com/Resume.pdf">Résumé</a></p>
 
-**AI & Software Engineer · Computer Vision · Geospatial AI**
+## Tech stack
 
-I build computer vision tools and AI products, from model integration to the interfaces people use. I'm a Full Stack Engineer at [Ultralytics](https://www.ultralytics.com/), working on annotation, dataset workflows, and image discovery.
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg"><img src="assets/icons/python-light.svg" width="132" height="50" alt="Python"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/typescript-dark.svg"><img src="assets/icons/typescript-light.svg" width="132" height="50" alt="TypeScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/react-dark.svg"><img src="assets/icons/react-light.svg" width="132" height="50" alt="React"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextjs-dark.svg"><img src="assets/icons/nextjs-light.svg" width="132" height="50" alt="Next.js"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/threejs-dark.svg"><img src="assets/icons/threejs-light.svg" width="132" height="50" alt="Three.js"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/pytorch-dark.svg"><img src="assets/icons/pytorch-light.svg" width="132" height="50" alt="PyTorch"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/arcgis-dark.svg"><img src="assets/icons/arcgis-light.svg" width="132" height="50" alt="ArcGIS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/openlayers-dark.svg"><img src="assets/icons/openlayers-light.svg" width="132" height="50" alt="OpenLayers"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/fastapi-dark.svg"><img src="assets/icons/fastapi-light.svg" width="132" height="50" alt="FastAPI"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/postgresql-dark.svg"><img src="assets/icons/postgresql-light.svg" width="132" height="50" alt="PostgreSQL"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/docker-dark.svg"><img src="assets/icons/docker-light.svg" width="132" height="50" alt="Docker"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/redis-dark.svg"><img src="assets/icons/redis-light.svg" width="132" height="50" alt="Redis"></picture>
+</p>
 
-[Website](https://thomas-chuang.com/) · [LinkedIn](https://www.linkedin.com/in/th0mas-chuang/) · [Email](mailto:thomaschuang@berkeley.edu) · [Resume](https://thomas-chuang.com/Resume.pdf)
-
-## At Ultralytics
-
-My work on [Ultralytics Platform](https://platform.ultralytics.com/) includes:
-
-- Annotation tools for detection, segmentation, classification, and oriented bounding boxes, with SAM-assisted labeling and dataset-wide batch annotation.
-- An interactive embeddings explorer and similar-image search to help people find relevant examples in their datasets.
-- Dataset imports, exports, and version comparison, alongside contributions to model deployment workflows.
-
-## Selected projects
-
-- **[Historical Map GeoAI](https://thomas-chuang.com/#proj-historical-map-geoai)** — Digitizing historical maps with YOLO and Segment Anything, plus a web tool for reviewing extracted features. Received the TGIS Conference Best Paper Award.
-- **[Pmap](https://github.com/nccu-cloud-native-group6/pmap)** — A precipitation map combining crowdsourced rain reports with Taiwan's Central Weather Administration data, with regional subscriptions and notifications.
-- **[YouBike Analysis](https://github.com/chuang091/YouBikeAnalysis)** — Exploring bike-sharing usage through time-series analysis and interactive maps. The later 2024 study won first place in the National StoryMaps Competition.
-
-More projects, demos, and research are on my [portfolio](https://thomas-chuang.com/#projects).
-
-## Background
-
-Previously, I worked on ArcGIS Earth at **Esri** and researched historical-map digitization at **Academia Sinica**. My interest in maps and spatial analysis still shapes the things I build.
-
-- **National Chengchi University** — Dual bachelor's degrees in Risk Management & Insurance and Land Economics; minor in Management Information Systems (2020–2026).
-- **UC Berkeley** — Computer Science exchange, studying systems, security, data science, and AI (2025–2026).
-- **Peking University** — Exchange studies in deep learning and data visualization (2024).
-
-## Tools I use
-
-- **AI & geospatial:** PyTorch, YOLO, Segment Anything, Milvus, ArcGIS, OpenLayers
-- **Web & backend:** Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Redis
-- **Infrastructure:** Docker, AWS, GCP, GitHub Actions
+<p><sub><a href="CREDITS.md">Map &amp; artwork credits</a> · <a href="READMEzh.md">繁體中文</a></sub></p>
