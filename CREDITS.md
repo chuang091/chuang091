@@ -8,4 +8,6 @@ The animated header is rendered from [Thomas Chuang’s interactive portfolio](h
 - Houses and vegetation are cartographic symbols placed within predicted classes, not recovered building footprints or measured counts.
 - Technology marks: [Simple Icons](https://simpleicons.org/), distributed through react-icons. Names and logos belong to their respective owners.
 
-Animation files and static posters are hosted as [versioned release assets](https://github.com/chuang091/chuang091/releases/tag/profile-art-v1), outside the Git history. The README selects one image for the viewer’s screen and color scheme, and a static poster when reduced motion is requested.
+Animation files and static posters are hosted as [versioned release assets](https://github.com/chuang091/chuang091/releases/tag/profile-art-v2), outside the Git history. The README selects one image for the viewer’s screen and color scheme, and a static poster when reduced motion is requested.
+
+The complete 17.9-second loop uses full-color animated AVIF: 2400 × 1040 on desktop (about 6.3 MB) and 1440 × 1314 on mobile (about 5.5 MB). Animated WebP fallbacks retain the same dimensions at a lower frame rate (about 13.6 MB / 12.4 MB). Only the selected format, layout, and theme are requested.
