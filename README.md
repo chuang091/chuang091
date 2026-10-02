@@ -1,17 +1,17 @@
 <a href="https://thomas-chuang.com/#proj-historical-map-geoai">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/poster-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/poster-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/poster-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/poster-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v2/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — a 1921 Taiwan map is outlined, scanned, classified, and reconstructed as a 3D landscape">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/poster-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/poster-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/poster-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/poster-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v3/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — satellite imagery of Taiwan rewinds to a 1921 map, then is outlined, scanned, classified, and reconstructed as a 3D landscape">
   </picture>
 </a>
 
