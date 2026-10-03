@@ -22,11 +22,15 @@
 <a href="https://thomas-chuang.com/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-zh-dark.svg"><img src="assets/buttons/resume-zh-light.svg" width="148" height="84" alt="履歷"></picture></a>
 </p>
 
+<p><strong>我從地圖開始寫程式。</strong></p>
+
+<p>在政大，我開始用資料理解身邊的城市。這份好奇把我帶進中研院的 GeoAI 研究，教模型讀懂老地圖。上面的 3D 地景，就來自一張 1921 年的臺灣地圖。現在，我做電腦視覺工具，讓人們能教機器看懂影像。</p>
+
 ## 精選作品
 
 <p>
 <strong>YouBike</strong><br>
-比較平日與週末旅次，觀察路網隨時間的變化。<br><br>
+我沿著 YouBike 的旅次，觀察臺北不同街區如何連在一起。比對平日與週末之後，我把時間變成地圖的一個軸，讓我能在同一張圖裡讀出數年的變化。<br><br>
 <a href="https://thomas-chuang.com/#proj-you-bike">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-youbike-mobile-dark.webp">
@@ -47,7 +51,7 @@
 
 <p>
 <strong>超商選址分析</strong><br>
-結合五個空間因子，研究臺北的超商選址。<br><br>
+我也好奇，人們停下來的地方有什麼不同。研究臺北的超商時，我把人口與交通資料疊在同一張地圖上，試著理解店家為什麼聚集在某些位置。<br><br>
 <a href="https://thomas-chuang.com/#proj-convenience-store">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-retail-mobile-dark.webp">
@@ -66,7 +70,13 @@
 </a>
 </p>
 
-<p><sub><a href="https://thomas-chuang.com/#academic">國立政治大學 · 交換經歷：北京大學、UC Berkeley</a></sub></p>
+<p>這一路上，我也到北京大學與 UC Berkeley 交換，繼續學習深度學習與電腦視覺。</p>
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="80" height="116" alt="國立政治大學 · 學士"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="80" height="116" alt="北京大學 · 交換"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="80" height="116" alt="UC Berkeley · 交換"></picture>
+</p>
 
 ## Tech stack
 

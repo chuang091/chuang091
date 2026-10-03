@@ -22,11 +22,15 @@
 <a href="https://thomas-chuang.com/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-dark.svg"><img src="assets/buttons/resume-light.svg" width="148" height="84" alt="Résumé"></picture></a>
 </p>
 
+<p><strong>I came to code through maps.</strong></p>
+
+<p>At NCCU, I started using data to understand the city around me. That work led me to GeoAI at Academia Sinica, where I taught models to read old maps. The landscape above began with a map of Taiwan from 1921. Today, I build tools that help people teach machines to see.</p>
+
 ## Selected work
 
 <p>
 <strong>YouBike</strong><br>
-Weekday and weekend journeys, viewed through space and time.<br><br>
+YouBike let me follow the journeys connecting Taipei's neighbourhoods. I compared weekdays with weekends, then gave time its own axis to see how the patterns changed over several years.<br><br>
 <a href="https://thomas-chuang.com/#proj-you-bike">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-youbike-mobile-dark.webp">
@@ -47,7 +51,7 @@ Weekday and weekend journeys, viewed through space and time.<br><br>
 
 <p>
 <strong>Convenience stores</strong><br>
-Five spatial factors, combined to study retail locations in Taipei.<br><br>
+I was just as curious about the places people stop. For Taipei's convenience stores, I brought population and transport data into the same map to explore why some locations attract more shops.<br><br>
 <a href="https://thomas-chuang.com/#proj-convenience-store">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-retail-mobile-dark.webp">
@@ -66,7 +70,13 @@ Five spatial factors, combined to study retail locations in Taipei.<br><br>
 </a>
 </p>
 
-<p><sub><a href="https://thomas-chuang.com/#academic">National Chengchi University · Exchange studies at Peking University and UC Berkeley</a></sub></p>
+<p>I kept learning through exchanges at Peking University and UC Berkeley, studying deep learning and computer vision.</p>
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="80" height="116" alt="National Chengchi University · Undergraduate"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="80" height="116" alt="Peking University · Exchange"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="80" height="116" alt="UC Berkeley · Exchange"></picture>
+</p>
 
 ## Tech stack
 
