@@ -4,10 +4,10 @@
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-mobile-light.webp">
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-desktop-dark.webp">
     <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-desktop-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/header-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/header-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/header-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/header-desktop-light.avif">
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/header-desktop-dark.webp">
@@ -37,10 +37,10 @@ YouBike let me follow the journeys connecting Taipei's neighbourhoods. I compare
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-youbike-mobile-light.webp">
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-youbike-desktop-dark.webp">
     <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-youbike-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-desktop-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/youbike-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/youbike-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/youbike-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/youbike-desktop-light.avif">
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/youbike-desktop-dark.webp">
@@ -58,10 +58,10 @@ I was just as curious about the places people stop. For Taipei's convenience sto
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-retail-mobile-light.webp">
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-retail-desktop-dark.webp">
     <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/poster-retail-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-desktop-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/retail-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/retail-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/retail-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v9/retail-desktop-light.avif">
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v8/retail-desktop-dark.webp">
