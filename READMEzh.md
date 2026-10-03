@@ -1,17 +1,17 @@
 <a href="https://thomas-chuang.com/#proj-historical-map-geoai">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/poster-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/poster-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/poster-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/poster-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v4/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — 臺灣衛星影像倒流至 1921 年《臺灣堡圖》，再經框選、掃描、分類，轉化為 3D 地景">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — 臺灣衛星影像倒流至 1921 年《臺灣堡圖》，再經框選、掃描、分類，轉化為 3D 地景">
   </picture>
 </a>
 
@@ -20,6 +20,46 @@
 <a href="https://www.linkedin.com/in/th0mas-chuang/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img src="assets/buttons/linkedin-light.svg" width="148" height="84" alt="LinkedIn"></picture></a>
 <a href="mailto:thomaschuang@berkeley.edu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><img src="assets/buttons/email-light.svg" width="148" height="84" alt="Email"></picture></a>
 <a href="https://thomas-chuang.com/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-zh-dark.svg"><img src="assets/buttons/resume-zh-light.svg" width="148" height="84" alt="履歷"></picture></a>
+</p>
+
+## 地圖作品
+
+<p>
+<a href="https://thomas-chuang.com/#proj-convenience-store">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-retail-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-retail-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-retail-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-retail-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/retail-desktop-light.webp" width="1200" loading="lazy" decoding="async" alt="臺北超商分布拆解為五個空間因子，由向量轉成網格，疊合為選址適宜性分析">
+  </picture>
+</a>
+</p>
+
+<p>
+<a href="https://thomas-chuang.com/#proj-you-bike">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-light.webp" width="1200" loading="lazy" decoding="async" alt="YouBike 向量場動畫，由臺北全域逐步推近市區的流動型態">
+  </picture>
+</a>
 </p>
 
 ## Tech stack
