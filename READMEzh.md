@@ -22,7 +22,7 @@
 <a href="https://thomas-chuang.com/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-zh-dark.svg"><img src="assets/buttons/resume-zh-light.svg" width="148" height="84" alt="履歷"></picture></a>
 </p>
 
-## 地圖作品
+## 我用地圖理解城市
 
 <p>
 <a href="https://thomas-chuang.com/#proj-convenience-store">
@@ -46,18 +46,18 @@
 <p>
 <a href="https://thomas-chuang.com/#proj-you-bike">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/poster-youbike-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v5/youbike-desktop-light.webp" width="1200" loading="lazy" decoding="async" alt="YouBike 向量場動畫，由臺北全域逐步推近市區的流動型態">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/poster-youbike-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/poster-youbike-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/poster-youbike-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/poster-youbike-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v6/youbike-desktop-light.webp" width="1200" loading="lazy" decoding="async" alt="YouBike 流場在臺北市中心平移，接著轉成沿 2020–2023 時間軸升起的 DBSCAN 點雲；高度代表時間，顏色代表群集">
   </picture>
 </a>
 </p>
