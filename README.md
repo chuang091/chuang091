@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="92" height="128" alt="National Chengchi University · Undergraduate"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="92" height="128" alt="Peking University · Exchange"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="92" height="128" alt="UC Berkeley · Exchange"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="100" height="139" alt="National Chengchi University · Undergraduate"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="100" height="139" alt="Peking University · Exchange"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="100" height="139" alt="UC Berkeley · Exchange"></picture>
 </p>
 
 <p><strong>I came to code through maps.</strong></p>

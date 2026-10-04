@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="92" height="128" alt="國立政治大學 · 學士"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="92" height="128" alt="北京大學 · 交換"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="92" height="128" alt="UC Berkeley · 交換"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/nccu-dark.svg"><img src="assets/education/nccu-light.svg" width="100" height="139" alt="國立政治大學 · 學士"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/pku-dark.svg"><img src="assets/education/pku-light.svg" width="100" height="139" alt="北京大學 · 交換"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education/berkeley-dark.svg"><img src="assets/education/berkeley-light.svg" width="100" height="139" alt="UC Berkeley · 交換"></picture>
 </p>
 
 <p><strong>我從地圖開始寫程式。</strong></p>
