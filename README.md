@@ -1,17 +1,17 @@
 <a href="https://thomas-chuang.com/#proj-historical-map-geoai">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-dark.webp" width="1440" height="1629">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-light.webp" width="1440" height="1629">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-dark.webp" width="2400" height="2280">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-light.webp" width="2400" height="2280">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.avif" width="1152" height="1303">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.avif" width="1152" height="1303">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.avif" width="1920" height="1824">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.avif" width="1920" height="1824">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.webp" width="960" height="1086">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.webp" width="960" height="1086">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.webp" width="1440" height="1368">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.webp" width="1200" height="1140" alt="Thomas Chuang · 莊子寬 — satellite imagery of Taiwan rewinds to a 1921 map, then is outlined, scanned, classified, and reconstructed as a 3D landscape">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — satellite imagery of Taiwan rewinds to a 1921 map, then is outlined, scanned, classified, and reconstructed as a 3D landscape">
   </picture>
 </a>
 
@@ -44,7 +44,7 @@ Following Taipei’s rides through weekdays, weekends, and years of change.<br><
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" height="420" alt="YouBike flow pans across downtown Taipei, compares weekday and weekend station-to-station journeys, then turns into a DBSCAN point cloud rising through 2020–2023; height represents time and color represents cluster">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" alt="YouBike flow pans across downtown Taipei, compares weekday and weekend station-to-station journeys, then turns into a DBSCAN point cloud rising through 2020–2023; height represents time and color represents cluster">
   </picture>
 </a>
 </p>
@@ -65,7 +65,7 @@ Then a closer look at where people stop, through population, transit, and conven
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" height="420" alt="Taipei convenience-store locations unfold into five spatial factors, become grids, and stack into a site-suitability map">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" alt="Taipei convenience-store locations unfold into five spatial factors, become grids, and stack into a site-suitability map">
   </picture>
 </a>
 </p>

@@ -1,17 +1,17 @@
 <a href="https://thomas-chuang.com/#proj-historical-map-geoai">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-dark.webp" width="1440" height="1629">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-light.webp" width="1440" height="1629">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-dark.webp" width="2400" height="2280">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-light.webp" width="2400" height="2280">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.avif" width="1152" height="1303">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.avif" width="1152" height="1303">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.avif" width="1920" height="1824">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.avif" width="1920" height="1824">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.webp" width="960" height="1086">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.webp" width="960" height="1086">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.webp" width="1440" height="1368">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.webp" width="1200" height="1140" alt="Thomas Chuang · 莊子寬 — 臺灣衛星影像倒流至 1921 年《臺灣堡圖》，再經框選、掃描、分類，轉化為 3D 地景">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-dark.webp">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-mobile-light.webp">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-desktop-light.webp">
+    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.avif">
+    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.avif">
+    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.avif">
+    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.avif">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-dark.webp">
+    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-mobile-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-dark.webp">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/header-desktop-light.webp" width="1200" alt="Thomas Chuang · 莊子寬 — 臺灣衛星影像倒流至 1921 年《臺灣堡圖》，再經框選、掃描、分類，轉化為 3D 地景">
   </picture>
 </a>
 
@@ -44,7 +44,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" height="420" alt="YouBike 流場在臺北市中心平移，比較平日與週末的站間旅次，接著轉成沿 2020–2023 時間軸升起的 DBSCAN 點雲；高度代表時間，顏色代表群集">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" alt="YouBike 流場在臺北市中心平移，比較平日與週末的站間旅次，接著轉成沿 2020–2023 時間軸升起的 DBSCAN 點雲；高度代表時間，顏色代表群集">
   </picture>
 </a>
 </p>
@@ -65,7 +65,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.webp">
     <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.webp">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" height="420" alt="臺北超商分布拆解為五個空間因子，由向量轉成網格，疊合為選址適宜性分析">
+    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" alt="臺北超商分布拆解為五個空間因子，由向量轉成網格，疊合為選址適宜性分析">
   </picture>
 </a>
 </p>
