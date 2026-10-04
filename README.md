@@ -28,46 +28,11 @@
 
 ## Selected work
 
-<p>
-<strong>YouBike</strong><br>
-Following Taipei’s rides through weekdays, weekends, and years of change.<br><br>
-<a href="https://thomas-chuang.com/#proj-you-bike">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" alt="YouBike flow pans across downtown Taipei, compares weekday and weekend station-to-station journeys, then turns into a DBSCAN point cloud rising through 2020–2023; height represents time and color represents cluster">
-  </picture>
-</a>
-</p>
+<p>Where does Taipei go when the workweek ends? What makes a corner worth stopping at?</p>
 
-<p>
-<strong>Convenience stores</strong><br>
-Then a closer look at where people stop, through population, transit, and convenience stores.<br><br>
-<a href="https://thomas-chuang.com/#proj-convenience-store">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" alt="Taipei convenience-store locations unfold into five spatial factors, become grids, and stack into a site-suitability map">
-  </picture>
-</a>
+<p align="center">
+<a href="https://thomas-chuang.com/#proj-you-bike"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-mobile-dark.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-mobile-light.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-desktop-dark.webp"><source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-desktop-light.webp"><source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-dark.avif" width="400"><source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-light.avif" width="400"><source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-dark.avif"><source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-light.avif"><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-dark.webp" width="400"><source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-light.webp" width="400"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-dark.webp"><img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-light.webp" width="48%" alt="YouBike flow pans across downtown Taipei, compares weekday and weekend station-to-station journeys, then turns into a DBSCAN point cloud rising through 2020–2023; height represents time and color represents cluster"></picture></a>&ensp;
+<a href="https://thomas-chuang.com/#proj-convenience-store"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-mobile-dark.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-mobile-light.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-desktop-dark.webp"><source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-desktop-light.webp"><source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-dark.avif" width="400"><source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-light.avif" width="400"><source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-dark.avif"><source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-light.avif"><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-dark.webp" width="400"><source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-light.webp" width="400"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-dark.webp"><img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-light.webp" width="48%" alt="Taipei convenience-store locations unfold into five spatial factors, become grids, and stack into a site-suitability map"></picture></a>
 </p>
 
 <p>

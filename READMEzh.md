@@ -28,46 +28,11 @@
 
 ## 精選作品
 
-<p>
-<strong>YouBike</strong><br>
-沿著 YouBike 旅次，看平日、週末與數年間的臺北如何流動。<br><br>
-<a href="https://thomas-chuang.com/#proj-you-bike">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-youbike-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/youbike-desktop-light.webp" width="560" alt="YouBike 流場在臺北市中心平移，比較平日與週末的站間旅次，接著轉成沿 2020–2023 時間軸升起的 DBSCAN 點雲；高度代表時間，顏色代表群集">
-  </picture>
-</a>
-</p>
+<p>週末到了，城市往哪裡去？什麼樣的街角，值得人們停下來？</p>
 
-<p>
-<strong>超商選址分析</strong><br>
-再看人們停留的地方：把人口、交通與超商疊起來，讀懂街區。<br><br>
-<a href="https://thomas-chuang.com/#proj-convenience-store">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-mobile-dark.webp">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-mobile-light.webp">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-desktop-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/poster-retail-desktop-light.webp">
-    <source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.avif">
-    <source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.avif">
-    <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.avif">
-    <source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.avif">
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-dark.webp">
-    <source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-mobile-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-dark.webp">
-    <img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v10/retail-desktop-light.webp" width="560" alt="臺北超商分布拆解為五個空間因子，由向量轉成網格，疊合為選址適宜性分析">
-  </picture>
-</a>
+<p align="center">
+<a href="https://thomas-chuang.com/#proj-you-bike"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-mobile-dark.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-mobile-light.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-desktop-dark.webp"><source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-youbike-desktop-light.webp"><source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-dark.avif" width="400"><source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-light.avif" width="400"><source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-dark.avif"><source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-light.avif"><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-dark.webp" width="400"><source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-mobile-light.webp" width="400"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-dark.webp"><img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/youbike-desktop-light.webp" width="48%" alt="YouBike 流場在臺北市中心平移，比較平日與週末的站間旅次，接著轉成沿 2020–2023 時間軸升起的 DBSCAN 點雲；高度代表時間，顏色代表群集"></picture></a>&ensp;
+<a href="https://thomas-chuang.com/#proj-convenience-store"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-mobile-dark.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-mobile-light.webp" width="400"><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-desktop-dark.webp"><source media="(prefers-reduced-motion: reduce)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/poster-retail-desktop-light.webp"><source type="image/avif" media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-dark.avif" width="400"><source type="image/avif" media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-light.avif" width="400"><source type="image/avif" media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-dark.avif"><source type="image/avif" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-light.avif"><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-dark.webp" width="400"><source media="(max-width: 600px)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-mobile-light.webp" width="400"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-dark.webp"><img src="https://github.com/chuang091/chuang091/releases/download/profile-art-v11/retail-desktop-light.webp" width="48%" alt="臺北超商分布拆解為五個空間因子，由向量轉成網格，疊合為選址適宜性分析"></picture></a>
 </p>
 
 <p>
